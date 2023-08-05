@@ -1,6 +1,6 @@
 ![Masterhead](https://matrix360.ca/wp-content/uploads/2020/01/Learning-_-Development-Banner-scaled.jpg)
 <h1 align="center">Hi 👋, I'm Paul Kennedy</h1>
-<h3 align="center">A Programming Instructor for over 8 years, looking to advance his career in web development.</h3>
+<h3 align="center">A Programming Instructor for over 8 years, looking to advance my career in web development.</h3>
 <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulkennedy&label=Profile%20views&color=0e75b6&style=flat" alt="paulkennedy" /> </p>
 
